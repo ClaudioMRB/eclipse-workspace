@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;prova&apos; to &apos;provaDbc&apos;&#x0D;&#x0A;- Original project: &apos;prova&apos;&#x0D;&#x0A;- Original element: &apos;prova/src/prova&apos;&#x0D;&#x0A;- Renamed element: &apos;prova/src/provaDbc&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;prova&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;prova" name="provaDbc" qualified="false" references="true" stamp="1668537154013" textual="false" version="1.0"/>
+</session>

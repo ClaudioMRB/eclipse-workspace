@@ -1,0 +1,28 @@
+package programa;
+
+//Para ler e escrever dados em Java, aqui na DIO padronizamos da seguinte forma: 
+//- new Scanner(System.in): cria um leitor de Entradas, com métodos úteis com prefixo "next";
+//- System.out.println:.imprime um texto de Saída (Output) e pulando uma linha.  
+
+import java.util.Scanner;
+
+public class Main {
+	
+	
+ public static void main(String[] Args) {
+
+	  double inicial = 0;
+      int limite = 4;
+      double resultado = inicial + CalcularProgressao(limite);
+      System.out.println(resultado);
+  }
+
+  public static double CalcularProgressao(int limite) {
+      if (limite == 1) {
+          return 1.0;
+      }
+      else {
+          return 1.0/limite + CalcularProgressao(limite-1);
+      }
+  }
+}
