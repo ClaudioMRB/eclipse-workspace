@@ -1,0 +1,5 @@
+package Sobrescrever;
+
+public class Galinha extends Animal{
+
+}

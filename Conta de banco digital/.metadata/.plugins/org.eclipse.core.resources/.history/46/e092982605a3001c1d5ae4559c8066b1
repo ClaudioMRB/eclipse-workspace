@@ -1,0 +1,20 @@
+package Projeto1;
+
+import java.util.Scanner;
+
+public class Poupanca{
+	public static void main(String[] args) {
+}
+	Scanner scan = new Scanner() {
+	
+	String nome;
+	int x;
+	
+
+	
+	if (nome = claudio) {
+	return x = y;
+	}
+	
+	}
+}

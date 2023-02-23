@@ -1,0 +1,22 @@
+package Projeto1;
+
+import java.util.Scanner;
+
+public class Banco extends Poupanca{
+public static void main(String[] args){
+Scanner scan = new Scanner(System.in);
+
+
+
+System.out.println("digite numero da sua Conta: ");
+cc = scan.next();
+System.out.println("digite numero da sua Agencia: ");
+agencia = scan.nextInt();
+System.out.println("Sua Conta é: " + cc + "\nSua Agencia é: " + agencia);
+
+
+
+
+
+}	
+}

@@ -1,0 +1,62 @@
+package BancoDigital;
+
+public abstract class Conta implements iConta{
+	
+	private int agencia;
+	private int numero;
+	private double saldo;
+	
+	
+	public void sacar() {
+		
+	}
+	
+	public void depositar() {
+		
+	}
+	
+	public void transferir() {
+		
+	}
+
+	public int getAgencia() {
+		return agencia;
+	}
+
+	public int getNumero() {
+		return numero;
+	}
+
+	public double getSaldo() {
+		return saldo;
+	}
+
+	@Override
+	public void sacar(double valor) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void depositar(double valor) {
+		// TODO Auto-generated method stub
+
+		
+		void depositar(double valor) {
+		}
+		void transferir(Double valor, Conta contadestino) {
+		}
+			
+		
+
+
+	}
+
+	@Override
+	public void transferir(Double valor, Conta contadestino) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+}

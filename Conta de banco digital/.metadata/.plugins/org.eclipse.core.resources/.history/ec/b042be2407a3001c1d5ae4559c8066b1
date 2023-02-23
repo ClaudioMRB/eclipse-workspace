@@ -1,0 +1,23 @@
+package Projeto1;
+
+import java.util.Scanner;
+
+public class Poupanca{
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.println("digite numero da sua Conta: ");
+		String cc;
+		cc = scan.next();
+		System.out.println("digite numero da sua Agencia: ");
+		int agencia;
+		agencia = scan.nextInt();
+		
+		for (int 62002, cc = int, int++) {
+			return claudio;
+		}
+		
+		
+	}
+}
+	

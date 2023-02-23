@@ -1,0 +1,12 @@
+package Projeto1;
+
+public class Poupanca{
+			
+		protected static String cc;
+		protected static int agencia;
+		
+		
+		
+		
+	}
+	

@@ -1,0 +1,9 @@
+package Sobrescrever;
+
+public class Teste {
+	public static void main(String[] args) {
+		Cachorro cao = new Cachorro();
+		
+	}
+
+}

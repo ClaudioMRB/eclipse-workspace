@@ -1,0 +1,14 @@
+package polimorfismo;
+
+public class ClasseFilha2 {
+
+	void metodo1 () {
+	System.out.println( “Método 1 da classe Filha 2”);
+	}
+
+	void metodo2 () {
+	System.out.println( “Método 2 da classe Filha 2”);
+	}
+
+	}
+	

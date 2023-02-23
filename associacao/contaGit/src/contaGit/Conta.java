@@ -1,0 +1,26 @@
+package contaGit;
+
+public class Conta {
+	
+	//o que toda conta deve possuir
+	int numero;
+	String dono;
+	double saldo;
+	double limite;
+	double salario;
+	
+	void saca(double quantidade) {
+		double novoSaldo = this.saldo - quantidade;
+		this.saldo = novoSaldo;
+			}
+
+		void deposita(double quantidade) {
+			this.saldo += quantidade;
+		}
+		
+	
+}
+	
+	
+	
+

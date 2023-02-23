@@ -1,0 +1,3 @@
+module imposto {
+	exports imposto;
+}

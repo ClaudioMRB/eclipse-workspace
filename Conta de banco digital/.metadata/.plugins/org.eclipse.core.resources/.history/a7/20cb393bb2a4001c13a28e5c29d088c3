@@ -1,0 +1,20 @@
+package Sobrescrever;
+
+public class Teste {
+	
+	public static void barulho(Animal animal) {
+		animal.fazerBarulho();
+		
+	}
+	
+	public static void main(String[] args) {
+		Cachorro cao = new Cachorro();
+		//cao.fazerBarulho();
+		
+		Galinha gal = new Galinha();
+		//gal.fazerBarulho();
+		
+		barulho(cao);
+	}
+
+}

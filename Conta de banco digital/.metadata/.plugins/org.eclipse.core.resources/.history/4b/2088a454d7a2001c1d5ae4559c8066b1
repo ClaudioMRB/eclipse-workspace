@@ -1,0 +1,15 @@
+package BancoDigital;
+
+public class iConta {
+	
+
+	public void sacar() {
+	}
+	public void depositar() {
+	}
+	public void transferir() {
+	}
+		
+	
+
+}
