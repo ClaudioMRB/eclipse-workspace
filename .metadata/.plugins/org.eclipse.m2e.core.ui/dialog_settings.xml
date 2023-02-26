@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\claud\Downloads\academiaDeGinastica\academiaDeGinastica"/>
+			<item value="C:\Users\claud\eclipse-workspace\academiaDeGinastica"/>
+			<item value="C:\Users\claud\eclipse-workspace\DesafioPooDioJunit"/>
 			<item value="C:\Users\claud\eclipse-workspace\Desafio-poo-dio-com-Junit"/>
 			<item value="C:\Users\claud\eclipse-workspace\TreinamentoJunit"/>
 			<item value="C:\Users\claud\eclipse-workspace\TreinamentoJunit2\TreinamentoJunit2"/>
@@ -19,6 +22,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Estudos\Projetos em java eclipse\Desafio-CRUD-de-clientes\src\main\java\com\devsuperior\CRUD_de_clientes\CrudDeClientesApplication.java"/>
 			<item value="D:\Estudos\Projetos Spring Boot"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -62,13 +66,16 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="dio.digitalinnovationone"/>
 			<item value="com.digitalinnovation"/>
 			<item value="TreinamentoJunit"/>
 		</list>
 		<list key="name">
+			<item value="CRUD"/>
 			<item value="TreinamentoJunit"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringDataJPA"/>
 			<item value="TreinamentoJunit"/>
 		</list>
 		<list key="projectNameTemplate">
